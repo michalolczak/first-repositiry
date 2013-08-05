@@ -1,1 +1,2 @@
-This is new file, was first.
+This is new file, was added as first.
+Second line.
