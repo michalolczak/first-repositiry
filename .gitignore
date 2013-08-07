@@ -1,5 +1,5 @@
-# ignore .DS_Store
-.DS*
+# ignore .DS_Store in global
+
 tempfile.txt
 *.zip
 log/*.log
