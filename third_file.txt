@@ -1,3 +1,4 @@
 Adding first line
-This is a third file that I have added to project again.
-d
+This is the third file that I have added to project again.
+d edited in third branch
+Adding third line
